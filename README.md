@@ -1,6 +1,6 @@
 # budgetBro
 
-> A simple budgeting app
+> A simple budgeting app I used to learn VueJS
 
 ## Build Setup
 
