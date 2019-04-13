@@ -36,7 +36,7 @@
           <td>
             <router-link class="button is-primary" :to="{ name: 'updateAccount', 
                          params: { accountId: account.id } }"> 
-                Edit
+                        Edit
             </router-link>
             <a class="button is-danger" @click="confirmDeleteAccount(account)">Delete</a>
           </td>
